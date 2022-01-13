@@ -48,6 +48,6 @@ if __name__ == '__main__':
     
     """
     print("filtered_list: ",filtered_list)
-    print("hi")
+
 
 
